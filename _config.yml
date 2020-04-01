@@ -4,7 +4,7 @@ title: "First cameroon data-centric blog"
 description: "Your most reliable source of information on Cameroon"
 #logo: 'assets/images/logo.png'
 logo: https://avatars0.githubusercontent.com/u/9998093?s=460&u=208deda4afb8fb8a0ff7a60a853f224f5ed887bc&v=4
-favicon: 'assets/images/logo.png'
+favicon: 'https://github.com/deegeorgie/deegeorgie.github.io/blob/master/medal.png'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
